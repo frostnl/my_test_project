@@ -1,1 +1,4 @@
-this project is really awesom
+this project is really awesome
+
+This is some new text
+
